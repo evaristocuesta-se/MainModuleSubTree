@@ -16,4 +16,9 @@ public class CoreLibrary
     {
         return a * b;
     }
+
+    public static int Divide(int a, int b)
+    {
+        return a / b;
+    }
 }
